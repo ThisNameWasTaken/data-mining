@@ -37,8 +37,6 @@ Daca dorim sa corelam indivizi utilizand mai multe variabile categorice in acela
 -- Rezultatele pentru indivizii obtinuti din analiza efectuata cu un singur grup sunt denumiti indivizi partiali. --
 Cu alte cuvinte, un individ considerat din punctul de vedere al unui singur grup se numeste individ partial.
 
-In graficul implicit fviz_mfa_ind(), pentru un individ dat, punctul corespunde cu individul mediu sau cu centrul de greutate al punctelor partiale ale individului. Adica, individul vazut de toate grupurile de variabile.
-
 Pentru a trasa punctele partiale ale tuturor persoanelor, folosim urmatoarea instructiune:
 
 Daca vrem sa vizualizam puncte partiale pentru vinurile de interes, ss spunem c(“1DAM”, “1VAU”, “2ING”).
@@ -67,8 +65,6 @@ De asemenea, putem desena un grafic tridimensional care combina clusterizarea ie
 Pentru variabilele categorice, calculam CA sau MCA si apoi aplicati functia HCPC() pe rezultatele descrise mai sus.
 
 Aici, vom folosi datele despre ceai [in FactoMineR] ca set de date demo: randurile reprezinta indivizii, iar coloanele reprezinta variabile categorice.
-
-Incepem, efectuand un MCA pe indivizi. Pastram primele 20 de axe ale MCA, care retin 87% din informatii.
 
 ------
 
