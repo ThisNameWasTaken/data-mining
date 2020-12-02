@@ -3,12 +3,8 @@
 ### 2.2.1 Evidentierea variabilelor in functie de calitatea lor
 
 Graficul arata relatia dintre variabile, calitatea reprezentarii variabilelor si corelatia dintre variabile si dimensiuni:
-
-  - Variabilele corelate pozitive sunt grupate impreuna, iar cele negative sunt pozitionate in cadrane opuse.
-
-  - Distanta dintre punctele variabile si origine masoara calitatea variabilei pe harta factorilor. Punctele variabile care sunt departe de origine sunt bine reprezentate pe harta factorilor.
-
-  - Cele mai corelate variabile cu o dimensiune sunt cele mai apropiate de dimensiunea respectiva.
+  - Distanta dintre punctele variabile si origine masoara calitatea variabilei pe harta factorilor.
+  - Punctele variabile care sunt departe de origine sunt bine reprezentate pe harta factorilor.
 
 ## Evidentierea variabilelor
 ### 2.2.2 Evidentierea variabilelor in functie de contributia lor la dimensiuni
@@ -23,7 +19,7 @@ Variabile cantitative care contribuie cel mai mult pot fi evidentiate pe graficu
 ## 2.3 Rezultatul indivizilor
 ### 2.3.1 Graficul indivizilor
 
-Din grafic observam ca categoriile variabile calitative suplimentare sunt prezentate in negru. Daca nu dorim sa le aratam in grafic, folosim invisible = “quali.var”.
+Din grafic observam ca categoriile variabilelor calitative suplimentare sunt prezentate in negru. Daca nu dorim sa le aratam in grafic, folosim invisible = “quali.var”.
 
 Persoanele cu profiluri similare sunt aproape una de cealalta pe harta factorilor. Prima axa se opune in principal vinului 1DAM si vinurilor 1VAU si 2ING. Prima dimensiune reprezinta armonia si intensitatea vinurilor. Astfel, vinul 1DAM (coordonate pozitive) a fost evaluat ca fiind cel mai „intens” si „armonios” contrar vinurilor 1VAU si 2ING (coordonate negative) care sunt cel mai putin „intens” si „armonios”.
 
@@ -38,7 +34,8 @@ Daca dorim sa corelam indivizi utilizand mai multe variabile categorice in acela
 
 ### 2.3.2 Graficul indivizilor partiali
 
--- Rezultatele pentru indivizii obtinuti din analiza efectuata cu un singur grup sunt denumiti indivizi partiali. -- Cu alte cuvinte, un individ considerat din punctul de vedere al unui singur grup se numeste individ partial.
+-- Rezultatele pentru indivizii obtinuti din analiza efectuata cu un singur grup sunt denumiti indivizi partiali. --
+Cu alte cuvinte, un individ considerat din punctul de vedere al unui singur grup se numeste individ partial.
 
 In graficul implicit fviz_mfa_ind(), pentru un individ dat, punctul corespunde cu individul mediu sau cu centrul de greutate al punctelor partiale ale individului. Adica, individul vazut de toate grupurile de variabile.
 
