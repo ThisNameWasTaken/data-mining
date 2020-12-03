@@ -19,9 +19,9 @@ Persoanele cu profiluri similare sunt aproape una de cealalta pe harta factorilo
 ### 2.5.3 Corelarea indivizilor
 Efectul este asemanator cu cel de la famd, punctele reprezinta grupuri de variabile in loc de variabile
 
-De exemplu, daca dorim sa corelam vinurile in functie de variabila calitativa suplimentara „Label”, folosim urmatoarea instructiune:
+De exemplu, daca dorim sa colorom vinurile in functie de variabila calitativa suplimentara „Label”, folosim urmatoarea instructiune:
 
-Daca dorim sa corelam indivizi utilizand mai multe variabile categorice in acelasi timp, utilizam functia fviz_ellipses() astfel:
+Daca dorim sa coloram indivizi utilizand mai multe variabile categorice in acelasi timp, utilizam functia fviz_ellipses() astfel:
 
 
 ### 2.5.4 Indivizil partiali
