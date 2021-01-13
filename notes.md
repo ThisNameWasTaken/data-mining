@@ -19,7 +19,7 @@ Clusterul 3 -> cei care cumpara si din supermarket si din magazine specializate,
 
 Pentru a face asta, variabila trebuie impartita pe clase.
 Variabila “age” pentru datele despre ceai a fost notata,in chestionar, ca fiind variabila cantitativa.
-Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica.
+Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica. (Nu stiam sa facem asta in urma proiectului de la curs)
 
 O strategie este de a construi clase asemanatoare ("likely classes"). in acest caz, alegem un numar de clase, in general intre patru si sapte, astfel incat sa avem suficiente clase, dar nu prea multe:
 
