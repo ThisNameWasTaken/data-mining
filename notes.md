@@ -17,11 +17,12 @@ Clusterul 3 -> cei care cumpara si din supermarket si din magazine specializate,
 
 ### Impartirea variabilelor cantitative pe clase
 
-Pentru a face asta, variabila trebuie impartita pe clase.
+(Nu stiam sa facem asta in urma proiectului de la curs)
+<br/>
+<br/>
 Variabila “age” pentru datele despre ceai a fost notata,in chestionar, ca fiind variabila cantitativa.
-Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica. (Nu stiam sa facem asta in urma proiectului de la curs)
-
-O strategie este de a construi clase asemanatoare ("likely classes"). in acest caz, alegem un numar de clase, in general intre patru si sapte, astfel incat sa avem suficiente clase, dar nu prea multe:
+Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica.
+O strategie este de a construi clase asemanatoare ("likely classes"). caz in care alegem un numar de clase, in general intre patru si sapte:
 
 ### Impartirea variabilelor cantitative pe clase (continuare)
 
