@@ -21,7 +21,9 @@ Clusterul 3 -> cei care cumpara si din supermarket si din magazine specializate,
 <br/>
 <br/>
 Variabila “age” pentru datele despre ceai a fost notata,in chestionar, ca fiind variabila cantitativa.
+<br/>
 Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica.
+<br/>
 O strategie este de a construi clase asemanatoare ("likely classes"). caz in care alegem un numar de clase, in general intre patru si sapte:
 
 ----
