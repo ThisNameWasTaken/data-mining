@@ -24,10 +24,6 @@ Variabila “age” pentru datele despre ceai a fost notata,in chestionar, ca fi
 Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica.
 O strategie este de a construi clase asemanatoare ("likely classes"). caz in care alegem un numar de clase, in general intre patru si sapte:
 
-### Impartirea variabilelor cantitative pe clase (continuare)
-
-O alta strategie este de a alege numarul de clase si limitele acestora din date. De exemplu, putem folosi o histograma reprezentand distributia variabilei astfel incat sa definim nivelurile de diviziune:
-
 ----
 
 ### Impartirea variabilelor cantitative pe clase (continuare) - Hierarhical Clustering
