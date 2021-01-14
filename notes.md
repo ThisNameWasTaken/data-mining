@@ -20,7 +20,7 @@ Clusterul 3 -> cei care cumpara si din supermarket si din magazine specializate,
 (Nu stiam sa facem asta in urma proiectului de la curs)
 <br/>
 <br/>
-Variabila “age” pentru datele despre ceai a fost notata,in chestionar, ca fiind variabila cantitativa.
+Variabila “age” a fost notata, in chestionar, ca fiind variabila cantitativa.
 <br/>
 Pentru a evidentia relatiile neliniare dintre variabila age si celelalte date din chestionar, aceasta trebuie recodificata ca variabila categorica.
 <br/>
